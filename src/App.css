@@ -1,0 +1,37 @@
+.Navwrapper{
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+  height: 70px;
+
+}
+.Navstyle{
+  cursor: pointer;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+.inputfield{
+  margin-top: 25px;
+  margin-left: 50px;
+  height: 30px;
+  width: 220px;
+  justify-content: center;
+}
+.Navlinkstyle{
+  cursor: pointer;
+  /* padding-left: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px; */
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  align-content: center;
+ padding: 3px;
+}
